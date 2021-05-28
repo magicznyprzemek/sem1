@@ -9,7 +9,7 @@ namespace petle
         static void Main(string[] args)
         {
             
-            
+            //test
             Console.WriteLine("Podaj liczbę całkowitą: ");
             int n = int.Parse(Console.ReadLine());
             int kolor=0;
