@@ -1,0 +1,13 @@
+C:\Users\Przemek\source\repos\c5\c5\bin\Debug\netcoreapp3.1\c5.exe
+C:\Users\Przemek\source\repos\c5\c5\bin\Debug\netcoreapp3.1\c5.deps.json
+C:\Users\Przemek\source\repos\c5\c5\bin\Debug\netcoreapp3.1\c5.runtimeconfig.json
+C:\Users\Przemek\source\repos\c5\c5\bin\Debug\netcoreapp3.1\c5.runtimeconfig.dev.json
+C:\Users\Przemek\source\repos\c5\c5\bin\Debug\netcoreapp3.1\c5.dll
+C:\Users\Przemek\source\repos\c5\c5\bin\Debug\netcoreapp3.1\c5.pdb
+C:\Users\Przemek\source\repos\c5\c5\obj\Debug\netcoreapp3.1\c5.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\c5\c5\obj\Debug\netcoreapp3.1\c5.AssemblyInfoInputs.cache
+C:\Users\Przemek\source\repos\c5\c5\obj\Debug\netcoreapp3.1\c5.AssemblyInfo.cs
+C:\Users\Przemek\source\repos\c5\c5\obj\Debug\netcoreapp3.1\c5.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\c5\c5\obj\Debug\netcoreapp3.1\c5.dll
+C:\Users\Przemek\source\repos\c5\c5\obj\Debug\netcoreapp3.1\c5.pdb
+C:\Users\Przemek\source\repos\c5\c5\obj\Debug\netcoreapp3.1\c5.genruntimeconfig.cache
