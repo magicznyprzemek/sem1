@@ -1,0 +1,13 @@
+C:\Users\Przemek\source\repos\c9\c9\obj\Debug\netcoreapp3.1\c9.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\c9\c9\obj\Debug\netcoreapp3.1\c9.AssemblyInfoInputs.cache
+C:\Users\Przemek\source\repos\c9\c9\obj\Debug\netcoreapp3.1\c9.AssemblyInfo.cs
+C:\Users\Przemek\source\repos\c9\c9\obj\Debug\netcoreapp3.1\c9.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\c9\c9\bin\Debug\netcoreapp3.1\c9.exe
+C:\Users\Przemek\source\repos\c9\c9\bin\Debug\netcoreapp3.1\c9.deps.json
+C:\Users\Przemek\source\repos\c9\c9\bin\Debug\netcoreapp3.1\c9.runtimeconfig.json
+C:\Users\Przemek\source\repos\c9\c9\bin\Debug\netcoreapp3.1\c9.runtimeconfig.dev.json
+C:\Users\Przemek\source\repos\c9\c9\bin\Debug\netcoreapp3.1\c9.dll
+C:\Users\Przemek\source\repos\c9\c9\bin\Debug\netcoreapp3.1\c9.pdb
+C:\Users\Przemek\source\repos\c9\c9\obj\Debug\netcoreapp3.1\c9.dll
+C:\Users\Przemek\source\repos\c9\c9\obj\Debug\netcoreapp3.1\c9.pdb
+C:\Users\Przemek\source\repos\c9\c9\obj\Debug\netcoreapp3.1\c9.genruntimeconfig.cache
