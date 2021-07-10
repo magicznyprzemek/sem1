@@ -1,0 +1,5 @@
+// tablica kart
+string[] tab ={"2 trefl","3 trefl","4 trefl","5 trefl","6 trefl","7 trefl","8 trefl","9 trefl","10 trefl","Walet trefl","Dama trefl","Król trefl","As trefl",
+        "2 pik","3 pik","4 pik","5 pik","6 pik","7 pik","8 pik","9 pik","10 pik","Walet pik","Dama pik","Król pik","As pik",
+        "2 karo","3 karo","4 karo","5 karo","6 karo","7 karo","8 karo","9 karo","10 karo","Walet karo","Dama karo","Król karo","As karo",
+        "2 kier","3 kier","4 kier","5 kier","6 kier","7 kier","8 kier","9 kier","10 kier","Walet kier","Dama kier","Król kier","As kier"};
